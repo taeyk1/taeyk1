@@ -64,7 +64,7 @@ AI·백엔드 기반으로 실제 서비스에 연결되는 기능을 만드는 
 
 ---
 
-## GitHub Stats
+## Algorithm Profile
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tyk226)](https://solved.ac/tyk226/)
 
@@ -72,4 +72,4 @@ AI·백엔드 기반으로 실제 서비스에 연결되는 기능을 만드는 
 
 ## Contacts
 
-- GitHub: https://github.com/taeyk1
+- **GitHub**: https://github.com/taeyk1
