@@ -66,8 +66,6 @@ AI·백엔드 기반으로 실제 서비스에 연결되는 기능을 만드는 
 
 ## GitHub Stats
 
-[![Taeyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=taeyk1&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tyk226)](https://solved.ac/tyk226/)
 
 ---
